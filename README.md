@@ -1,9 +1,3 @@
-# videogame_golden_age
-
-This project was my guided project to complete my Data Analyst in SQL carrer track in DataCamp.
-
-I developed all the coding to find answer for what year was the golden year for the videogames industry.
-
 The dataset provided consists in 2 tables:
   game_sales:
     column        type       meaning
